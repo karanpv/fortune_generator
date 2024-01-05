@@ -1,0 +1,1 @@
+const rndNumGenerator = num => Math.floor(Math.random() * num);
