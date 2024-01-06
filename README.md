@@ -15,9 +15,9 @@
 
 ## Message template
 
-    Your sign right now is: _(fortune sign)_.
-    It means: _(meaning of the sign)_.
-    My personal advice for you is: _(fortuner's personal advice)_.
+    Your sign right now is: _fortune sign_.
+    It means: _meaning of the sign_.
+    My personal advice for you is: _fortuner's personal advice_.
 
 ## Sources
     
