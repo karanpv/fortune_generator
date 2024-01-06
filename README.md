@@ -8,10 +8,10 @@ It is a simple program, the user just have to run the program and it will automa
 
 ## Technologies
 
--JavaScript.
--Git.
--VS Code.
--Command Line.
+- JavaScript.
+- Git.
+- VS Code.
+- Command Line.
 
 ## Message template
 
@@ -21,14 +21,14 @@ My personal advice for you is: _fortuner's personal advice_.
 
 ## Sources
     
--Codecademy.
--GitHub.
--ChatGPT.
+- Codecademy.
+- GitHub.
+- ChatGPT.
 
 ## Contact
 
--Author: karan PV
--Email : 149856183+karanpv@users.noreply.github.com
+- Author: karan PV
+- Email : 149856183+karanpv@users.noreply.github.com
 
 
 
