@@ -26,3 +26,10 @@ for (let step in collectiveFortune) {
             break;
     }
 }
+
+const formatFortune = fortuneArr => {
+    let format = fortuneArr.join('\n');
+    console.log(format);
+}
+
+formatFortune(personalFortune);
