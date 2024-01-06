@@ -7,3 +7,22 @@ const collectiveFortune = {
 };
 
 let personalFortune = [];
+
+for (let step in collectiveFortune) {
+    let fortuneIdx = rndNumGenerator(collectiveFortune[step].length);
+
+    switch(step) {
+        case 'sign':
+            personalFortune.push(`Your sign right now is: "${collectiveFortune[step][fortuneIdx]}".`);
+            break;
+        case 'fortune':
+            personalFortune.push(`It means: "${collectiveFortune[step][fortuneIdx]}".`);
+            break;
+        case 'advice':
+            personalFortune.push(`My personal advice for you is: "${collectiveFortune[step][fortuneIdx]}".`);
+            break;
+        default:
+            personalFortune.push('The crystal ball is showing swirling vortex of multiple mixed fortunes, please come back later!');
+            break;
+    }
+}
